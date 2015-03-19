@@ -1,0 +1,26 @@
+{
+  "name": "tmp",
+  "version": "0.0.0",
+  "description": "now",
+  "main": "min.js",
+  "dependencies": {
+    "benv": "~0.1.6",
+    "jade": "~1.9.1",
+    "jsdom": "~3.1.0",
+    "rewire": "~2.1.4",
+    "should": "~4.6.2",
+    "sinon": "~1.12.2",
+    "underscore": "~1.7.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "here"
+  ],
+  "author": "me",
+  "license": "BSD"
+}
